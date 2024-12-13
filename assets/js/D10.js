@@ -21,6 +21,12 @@ console.log("Esercizio A");
 
 let sum= 10+20; 
 
+/* oppure 
+
+let a=10
+let b=20
+let sum=a+b */
+
 console.log("La somma è: ", sum);
 
 
