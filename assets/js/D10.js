@@ -417,7 +417,7 @@ console.log("Esercizio 11");
 
 let auto = {
   marca: "Fiat",
-  Modello: "500L",
+  modello: "500L",
   colore: "BluNero",
   immatricolazione: ">06/2019",
 };
