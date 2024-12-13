@@ -249,16 +249,9 @@ console.log("****");
 
 console.log("Esercizio 5");
 
-/*
-function onlyLetters(stringa) {
-  if (stringa.search("NaN") !== -1) {
-    stringa.
-  } else {
-    
-  }
-}
 
-console.log(onlyLetters("salve"))
+function onlyLetters(stringa) {
+}
 
 console.log("****");
 
