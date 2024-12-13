@@ -749,6 +749,8 @@ console.log("Esercizio 19");
 
 console.log("****");
 
+console.log("DOM");
+
 // DOM (nota: gli elementi che selezionerai non si trovano realmente nella pagina)
 
 /* ESERCIZIO 20
